@@ -1,19 +1,23 @@
-- Season: "2019-2020"
+- Season: "2020-2021"
   current: true
-  concerts: 
-    
+  concerts:
+  - date: "May 23, 2021"
+    time: "3pm"
+    location: Online
+    title: "Apart Together: A Concert for the New Abnormal"
+    current: true
+    pdf: "concerts/2020_21/2020_5-23.png"
+- Season: "2019-2020"
+  concerts:    
   - date: "December 21, 2020"
     time: "12am"
-    location: "Palos Verdes High School, PVE (Courtyard)"
-    address: Online
+    location: "Online"
     title: "Arsenal"
     youtube: "XabuvhnADkY"
-    current: true
     video: true
   - date: "August 9, 2020"
     time: "12am"
-    location: "Palos Verdes High School, PVE (Courtyard)"
-    address: Online
+    location: "Online"
     title: "Irish Tune from County Derry"
     youtube: "kTrXZ6nEe0M"
   - date: "July 12, 2020-- cancelled"
