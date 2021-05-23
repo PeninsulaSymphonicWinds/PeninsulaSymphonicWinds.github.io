@@ -7,6 +7,8 @@
     title: "Apart Together: A Concert for the New Abnormal"
     current: true
     pdf: "concerts/2020_21/2020_5-23.png"
+    youtube: "CRZxIdloTss"
+    video: true
 - Season: "2019-2020"
   concerts:    
   - date: "December 21, 2020"
@@ -14,7 +16,6 @@
     location: "Online"
     title: "Arsenal"
     youtube: "XabuvhnADkY"
-    video: true
   - date: "August 9, 2020"
     time: "12am"
     location: "Online"
