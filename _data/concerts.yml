@@ -1,11 +1,19 @@
-- Season: "2020-2021"
+- Season: "2021-2022"
   current: true
+  concerts:
+  - date: "July 17, 2022"
+    current: true
+    time: "5pm"
+    location: "Palos Verdes High School, PVE (Courtyard)"
+    mapLink: https://www.google.com/maps/place/Palos+Verdes+High+School/@33.77921,-118.419825,17z/data=!3m1!4b1!4m2!3m1!1s0x80dd4c9a7edf001d:0xb187e59e4832f55b
+    address: 600 Cloyden Road, Palos Verdes Estates, CA
+    title: "Outdoor Picnic Concert - Admission Free"
+- Season: "2020-2021"
   concerts:
   - date: "May 23, 2021"
     time: "3pm"
     location: Online
     title: "Apart Together: A Concert for the New Abnormal"
-    current: true
     pdf: "concerts/2020_21/2020_5-23.png"
     youtube: "CRZxIdloTss"
     video: true

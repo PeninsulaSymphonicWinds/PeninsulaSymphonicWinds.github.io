@@ -44,7 +44,7 @@ image: /img/gallery/IMG_2071.jpg
 		<h4><a href="#concerts" data-toggle="modal" data-target="#concerts">See a list of upcoming and past concerts</a></h4>
 	</div>
 	<div class="col-sm-4">
-		<h3>Rehearsals - postponed until 2021</h3>
+		<h3>Rehearsals</h3>
 		<h4>
 			{{ site.rehearsal.day }}, {{ site.rehearsal.time}}
 		</h4>
@@ -78,7 +78,7 @@ image: /img/gallery/IMG_2071.jpg
 				{% for concert in season.concerts %}
 					{% if concert.video %}
 					<div class="video-container">
-  						<iframe width="560" height="315" src="//www.youtube.com/embed/{{ concert.youtube }}" frameborder="0" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="//www.youtube.com/embed/{{ concert.youtube }}" frameborder="0" allowfullscreen></iframe>
 					</div>
 					{% endif %}
 				{% endfor %}
@@ -109,16 +109,6 @@ image: /img/gallery/IMG_2071.jpg
 	</div>
 </div>
 <!-- End support -->
-<!-- Start tickets -->
-<div id="tickets" class="tickets">
-	<div class="container-fluid">
-		<h2 class="section-title">Tickets</h2>
-		{% capture tickets %}{% include tickets.md %}{% endcapture %}
-		{{ tickets | markdownify }}
-		{% include tickets.html %}
-	</div>
-</div>
-<!-- End tickets -->
 
 <!-- Start new members -->
 <div id="newmembers" class="newmembers">
