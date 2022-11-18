@@ -1,8 +1,16 @@
 - Season: "2021-2022"
   current: true
   concerts:
-  - date: "July 17, 2022"
+  - date: "November 27, 2022"
     current: true
+    current: true
+    time: "3pm"
+    location: "Manhattan Beach Community Church"
+    mapLink: https://goo.gl/maps/upec1jShfgghVc797
+    address: 303 Peck Avenue, Manhattan Beach, CA
+    pdf: "concerts/2022_23/2022_11-27.pdf"
+    title: "Autumn into Winter"
+  - date: "July 17, 2022"
     time: "5pm"
     location: "Palos Verdes High School, PVE (Courtyard)"
     mapLink: https://www.google.com/maps/place/Palos+Verdes+High+School/@33.77921,-118.419825,17z/data=!3m1!4b1!4m2!3m1!1s0x80dd4c9a7edf001d:0xb187e59e4832f55b
