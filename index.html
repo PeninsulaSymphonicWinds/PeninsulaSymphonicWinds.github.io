@@ -25,14 +25,14 @@ image: /img/gallery/IMG_2071.jpg
 							{% endif %}
 						</h4>
 						<h5>{{ concert.date }}, {{ concert.time }}</h5>
-						<h5><a href="{{ site.youtube }}" target="_blank">{{ concert.location }}</a></h5>
+						<h5><a href="{{ concert.mapLink }}" target="_blank">{{ concert.location }}</a></h5>
 						{% if concert.youtube %}
 						<p><svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg>
 						<a href="https://www.youtube.com/watch?v={{ concert.youtube }}" target="_blank">Watch Now!</a></p>
 						{% endif %}
 						{% if concert.mapLink %}
 							<p><svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
-								<a href="{{ concert.mapLink }}">{{ concert.address }}</a>
+								<a href="{{ concert.mapLink }}" target="_blank">{{ concert.address }}</a>
 							</p>
 						{% else %}
 							<p>{{ concert.address }}</p>
