@@ -1,8 +1,25 @@
-- Season: "2022-2023"
+- Season: "2024-2025"
   current: true
   concerts:
+  - date: "July 6, 2023"
+    current: true
+    time: "5pm"
+    location: "Harbor College"
+    title: "Concerts in the Park"
+    pdf: "concerts/2022_23/2023_07.pdf"
+    mapLink: https://goo.gl/maps/eNxgsgvprw6gRra86
+    address: 1111 Figueroa Pl, Wilmington CA 90744
   - date: "July 8, 2023"
     current: true
+    time: "5pm"
+    location: "Palos Verdes High School"
+    title: "Concerts in the Park"
+    pdf: "concerts/2022_23/2023_07.pdf"
+    mapLink: https://goo.gl/maps/ZGUu7pzoW4g13xHQ6
+    address: 600 Cloyden Road, Palos Verdes Estates, 90274
+- Season: "2022-2023"
+  concerts:
+  - date: "July 8, 2023"
     time: "5pm"
     location: "Harbor College"
     title: "Harbor College 75th Anniversary "
@@ -10,7 +27,6 @@
     mapLink: https://goo.gl/maps/eNxgsgvprw6gRra86
     address: 1111 Figueroa Pl, Wilmington CA 90744
   - date: "July 9, 2023"
-    current: true
     time: "5pm"
     location: "Palos Verdes High School"
     title: "Concerts in the Park"
