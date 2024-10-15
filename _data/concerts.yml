@@ -1,8 +1,15 @@
 - Season: "2024-2025"
   current: true
   concerts:
-  - date: "July 6, 2024"
+  - date: "November 10, 2024"
     current: true
+    time: "3pm"
+    location: "Salvation Army Torrance Chapel"
+    title: "Concerts in the Park"
+    pdf: "concerts/2022_23/2024_07.pdf"
+    mapLink: https://maps.app.goo.gl/RKZVxSMEtapQbhDW9
+    address: 4223 Emerald St, Torrance, CA
+  - date: "July 6, 2024"
     time: "5pm"
     location: "Harbor College"
     title: "Concerts in the Park"
@@ -10,7 +17,6 @@
     mapLink: https://goo.gl/maps/eNxgsgvprw6gRra86
     address: 1111 Figueroa Pl, Wilmington CA 90744
   - date: "July 7, 2024"
-    current: true
     time: "5pm"
     location: "Palos Verdes High School"
     title: "Concerts in the Park"
