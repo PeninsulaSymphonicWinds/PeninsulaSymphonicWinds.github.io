@@ -1,8 +1,15 @@
 - Season: "2024-2025"
   current: true
   concerts:
-  - date: "November 10, 2024"
+  - date: "April 6, 2025"
     current: true
+    time: "3pm"
+    location: "Salvation Army Torrance Chapel"
+    title: "This is U.S."
+    pdf: "concerts/2022_23/2025_04.pdf"
+    mapLink: https://maps.app.goo.gl/RKZVxSMEtapQbhDW9
+    address: 4223 Emerald St, Torrance, CA
+  - date: "November 10, 2024"
     time: "3pm"
     location: "Salvation Army Torrance Chapel"
     title: "This is U.S."
